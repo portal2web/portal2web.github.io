@@ -26,5 +26,5 @@ function gotoBackground() {
 }
 
 function gotoCannotPlay() {
-    window.location.href='dialog.html?title=INFO&body=Sorry, you cannot play p2web yet.&redirect=menu.html?background=' + params.background + '&background=' + params.background;
+    window.location.href='aperture.html?redirect=dialog.html?title=INFO%26body=HA! you thought you could play! LOL! Anyway, you cannot play p2web yet.%26redirect=menu.html?background=' + params.background + '%26background=' + params.background;
 }
