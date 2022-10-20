@@ -4,4 +4,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
 setTimeout(() => {
     window.location.href = "menu.html";
-}, 13000);
+}, 17000);
